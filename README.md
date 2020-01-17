@@ -2,7 +2,10 @@
 비행기 티켓 가격이 일정 금액 이하일때 자동 예매 되는 웹 서비스
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/26738367/72579553-c2e6e200-391c-11ea-9f92-72d7c29bddb3.jpg" width=500 />
+  <img src="https://user-images.githubusercontent.com/26738367/72602595-ddd84700-395a-11ea-9313-92c337db4bae.png" width=500 />
 </div>
+
+
 
 # 팀원
  1. Martin L.
